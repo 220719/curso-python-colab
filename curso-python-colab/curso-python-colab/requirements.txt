@@ -1,1 +1,0 @@
-# Curso usa apenas Python padrão nas primeiras 10 aulas.

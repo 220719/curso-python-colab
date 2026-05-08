@@ -1,3 +1,0 @@
-Python é uma linguagem poderosa.
-Google Colab facilita o aprendizado.
-Programar exige prática e organização.
